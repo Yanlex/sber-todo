@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/sber-todo/static/css/main.c513d78a.css",
-    "main.js": "/sber-todo/static/js/main.8d22c051.js",
+    "main.css": "/sber-todo/static/css/main.855542a4.css",
+    "main.js": "/sber-todo/static/js/main.7e92f688.js",
     "index.html": "/sber-todo/index.html",
-    "main.c513d78a.css.map": "/sber-todo/static/css/main.c513d78a.css.map",
-    "main.8d22c051.js.map": "/sber-todo/static/js/main.8d22c051.js.map"
+    "main.855542a4.css.map": "/sber-todo/static/css/main.855542a4.css.map",
+    "main.7e92f688.js.map": "/sber-todo/static/js/main.7e92f688.js.map"
   },
   "entrypoints": [
-    "static/css/main.c513d78a.css",
-    "static/js/main.8d22c051.js"
+    "static/css/main.855542a4.css",
+    "static/js/main.7e92f688.js"
   ]
 }
